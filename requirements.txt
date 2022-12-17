@@ -2,7 +2,6 @@ folium==0.13.0
 haversine==2.7.0
 inflection==0.5.1
 seaborn==0.12.1
-streamlit==1.15.2
 streamlit-folium==0.7.0
 pandas==1.16.0
 streamlit : 1.15.2
@@ -11,3 +10,4 @@ matplotlib==3.6.2
 numpy==1.23.4
 re==2.2.1
 datetime==65.5.0
+streamlit==22.1.0
